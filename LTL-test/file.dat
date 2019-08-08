@@ -1,0 +1,12 @@
+idle paid bad
+idle
+coin idle paid
+coffee paid idle
+break paid bad
+off idle bad
+repair bad idle
+solve bad paid
+
+(True U (coin and (X (not coffee))))
+(not (True U (coin and (X (not coffee)))))
+(not (True U ((not coin) and (X (not coffee)))))
